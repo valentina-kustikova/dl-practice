@@ -1,0 +1,4 @@
+vgg16
+efficientnet_b0
+resnet18
+resnet50
